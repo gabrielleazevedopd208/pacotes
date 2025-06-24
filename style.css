@@ -64,7 +64,7 @@ h2 {
     color: #F7F4EA;                 /* Texto claro */
     text-decoration: none;          /* Remove sublinhado */
     border-radius: 15px;
-    transition: 0.3s;               /* Animação de levantar */
+    transition: 0.3s;               /* Animação */
 }
 
 /* Quando o mouse passa sobre o botão */
